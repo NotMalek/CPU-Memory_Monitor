@@ -1,6 +1,6 @@
-# Advanced System Performance Monitor
+# System Performance Monitor
 
-A sophisticated, enterprise-grade system monitoring application built with Python, featuring real-time metrics collection, data persistence, alerting, and visualization capabilities.
+A lightweight, real-time system monitoring application built with Python, featuring core system metrics visualization and data persistence.
 
 ## Project Structure
 ```
@@ -25,24 +25,17 @@ system_monitor/
 ## Features
 
 ### Core Monitoring
-- Real-time CPU usage monitoring (per core)
+- Real-time CPU usage monitoring
 - Memory utilization tracking
-- Disk usage analytics
+- Disk usage visualization with pie chart
 - Network throughput measurement (upload/download)
-- CPU temperature monitoring
-- Process count tracking
-- Battery level monitoring (for laptops)
-- Swap memory usage
 
-### Advanced Capabilities
-- **Asynchronous Operations**: Built with `asyncio` for efficient concurrent operations
+### Technical Features
+- **Asynchronous Operations**: Built with `asyncio` for efficient real-time monitoring
 - **Multi-threaded Data Collection**: Parallel metric collection using ThreadPoolExecutor
 - **Data Persistence**: SQLite database with async operations via `aiosqlite`
-- **Clean Architecture**: Follows SOLID principles and clean architecture patterns
-- **Real-time Alerting**: Configurable alert thresholds with queue-based notification system
-- **Data Aggregation**: Historical data analysis with customizable time windows
-- **Export Capabilities**: Data export to JSON format
-- **Robust Error Handling**: Comprehensive logging and error management
+- **Modern UI**: Clean and responsive interface with matplotlib-based visualizations
+- **Error Handling**: Comprehensive logging system
 
 ## Technical Requirements
 
@@ -75,8 +68,18 @@ pip install -r requirements.txt
 python main.py
 ```
 
-2. The GUI dashboard will open automatically, showing:
-    - Real-time system metrics
-    - Historical data graphs
-    - Active alerts
-    - System information
+2. The GUI dashboard will display:
+   - CPU usage over time
+   - Memory utilization graph
+   - Network throughput metrics
+   - Disk usage pie chart
+
+## Data Visualization
+
+The dashboard provides real-time visualizations of:
+- CPU usage with historical trending
+- Memory utilization patterns
+- Network upload/download speeds
+- Disk space distribution in pie chart format
+
+All graphs automatically update every second to provide current system metrics.
