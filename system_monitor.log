@@ -1,0 +1,284 @@
+2025-01-20 13:03:35,601 - ERROR - Error in main: 'seaborn-darkgrid' is not a valid package style, path of style file, URL of style file, or library style name (library styles are listed in `style.available`)
+2025-01-20 13:10:06,434 - INFO - Initializing Dashboard...
+2025-01-20 13:10:06,434 - INFO - Setting up GUI...
+2025-01-20 13:10:06,842 - INFO - Setting up styles...
+2025-01-20 13:10:06,843 - INFO - Dashboard initialization complete.
+2025-01-20 13:13:35,920 - INFO - Initializing Dashboard...
+2025-01-20 13:13:35,920 - INFO - Setting up GUI...
+2025-01-20 13:13:36,232 - INFO - Setting up styles...
+2025-01-20 13:13:36,234 - INFO - Dashboard initialization complete.
+2025-01-20 13:17:19,314 - ERROR - Error updating plots: 
+2025-01-20 13:19:06,971 - INFO - Initializing Dashboard...
+2025-01-20 13:19:06,972 - INFO - Setting up GUI...
+2025-01-20 13:19:07,474 - INFO - Setting up styles...
+2025-01-20 13:19:07,475 - INFO - Dashboard initialization complete.
+2025-01-20 13:20:56,762 - ERROR - Error updating plots: 
+2025-01-20 13:21:36,681 - INFO - Initializing Dashboard...
+2025-01-20 13:21:36,681 - INFO - Setting up GUI...
+2025-01-20 13:21:37,120 - INFO - Setting up styles...
+2025-01-20 13:21:37,121 - INFO - Dashboard initialization complete.
+2025-01-20 13:24:21,330 - ERROR - Error updating plots: 
+2025-01-20 13:24:28,614 - INFO - Initializing Dashboard...
+2025-01-20 13:24:28,614 - INFO - Setting up GUI...
+2025-01-20 13:24:29,075 - INFO - Setting up styles...
+2025-01-20 13:24:29,076 - INFO - Dashboard initialization complete.
+2025-01-20 13:24:30,106 - ERROR - Error in _update_overview_plots: x and y must have same first dimension, but have shapes (0,) and (3,)
+2025-01-20 13:24:31,386 - ERROR - Error in _update_overview_plots: x and y must have same first dimension, but have shapes (0,) and (2,)
+2025-01-20 13:26:38,827 - ERROR - Error updating plots: 
+2025-01-20 13:26:44,499 - INFO - Initializing Dashboard...
+2025-01-20 13:26:44,499 - INFO - Setting up GUI...
+2025-01-20 13:26:44,945 - INFO - Setting up styles...
+2025-01-20 13:26:44,946 - INFO - Dashboard initialization complete.
+2025-01-20 13:27:11,757 - INFO - Initializing Dashboard...
+2025-01-20 13:27:11,757 - INFO - Setting up GUI...
+2025-01-20 13:27:12,207 - INFO - Setting up styles...
+2025-01-20 13:27:12,208 - INFO - Dashboard initialization complete.
+2025-01-20 13:27:12,209 - ERROR - Error collecting metrics: name 'psutil' is not defined
+2025-01-20 13:27:12,209 - ERROR - Error in monitoring loop: name 'psutil' is not defined
+2025-01-20 13:27:17,217 - ERROR - Error collecting metrics: name 'psutil' is not defined
+2025-01-20 13:27:17,217 - ERROR - Error in monitoring loop: name 'psutil' is not defined
+2025-01-20 13:27:22,233 - ERROR - Error collecting metrics: name 'psutil' is not defined
+2025-01-20 13:27:22,233 - ERROR - Error in monitoring loop: name 'psutil' is not defined
+2025-01-20 13:27:52,812 - INFO - Initializing Dashboard...
+2025-01-20 13:27:52,812 - INFO - Setting up GUI...
+2025-01-20 13:27:53,283 - INFO - Setting up styles...
+2025-01-20 13:27:53,283 - INFO - Dashboard initialization complete.
+2025-01-20 13:30:53,047 - INFO - Database initialized successfully
+2025-01-20 13:30:53,047 - INFO - Initializing Dashboard...
+2025-01-20 13:30:53,047 - INFO - Setting up GUI...
+2025-01-20 13:30:53,556 - INFO - Setting up styles...
+2025-01-20 13:30:53,557 - INFO - Dashboard initialization complete.
+2025-01-20 13:31:01,687 - INFO - Database initialized successfully
+2025-01-20 13:31:01,687 - INFO - Initializing Dashboard...
+2025-01-20 13:31:01,687 - INFO - Setting up GUI...
+2025-01-20 13:31:02,146 - INFO - Setting up styles...
+2025-01-20 13:31:02,147 - INFO - Dashboard initialization complete.
+2025-01-20 15:29:18,379 - INFO - Database initialized successfully
+2025-01-20 15:29:18,379 - INFO - Initializing Dashboard...
+2025-01-20 15:29:18,379 - INFO - Setting up GUI...
+2025-01-20 15:29:19,054 - INFO - Setting up styles...
+2025-01-20 15:29:19,055 - INFO - Dashboard initialization complete.
+2025-01-20 15:33:28,171 - INFO - Database initialized successfully
+2025-01-20 15:33:28,171 - INFO - Initializing Dashboard...
+2025-01-20 15:33:28,171 - INFO - Setting up GUI...
+2025-01-20 15:33:28,678 - INFO - Setting up styles...
+2025-01-20 15:33:28,679 - INFO - Dashboard initialization complete.
+2025-01-20 15:34:16,170 - INFO - Alert saved: High CPU usage: 90.9%
+2025-01-20 15:37:02,857 - ERROR - Error updating plots: 
+2025-01-20 15:37:07,902 - INFO - Database initialized successfully
+2025-01-20 15:37:07,903 - INFO - Initializing Dashboard...
+2025-01-20 15:37:07,903 - INFO - Setting up GUI...
+2025-01-20 15:37:08,352 - INFO - Setting up styles...
+2025-01-20 15:37:08,353 - INFO - Dashboard initialization complete.
+2025-01-20 15:37:08,869 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:14,393 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:19,914 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:25,522 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:31,308 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:36,832 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:42,360 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:47,880 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:53,466 - ERROR - Error in monitoring loop: 'cpu_frequency'
+2025-01-20 15:37:54,203 - ERROR - Error updating plots: 
+2025-01-20 15:37:55,748 - INFO - Database initialized successfully
+2025-01-20 15:37:55,749 - INFO - Initializing Dashboard...
+2025-01-20 15:37:55,749 - INFO - Setting up GUI...
+2025-01-20 15:37:56,229 - INFO - Setting up styles...
+2025-01-20 15:37:56,229 - INFO - Dashboard initialization complete.
+2025-01-20 15:39:59,744 - INFO - Alert saved: High CPU usage: 81.2%
+2025-01-20 15:42:10,967 - ERROR - Error updating plots: 
+2025-01-20 15:42:13,454 - INFO - Database initialized successfully
+2025-01-20 15:42:13,455 - INFO - Initializing Dashboard...
+2025-01-20 15:42:13,455 - INFO - Setting up GUI...
+2025-01-20 15:42:13,912 - INFO - Setting up styles...
+2025-01-20 15:42:13,912 - INFO - Dashboard initialization complete.
+2025-01-20 15:49:20,129 - ERROR - Error updating plots: 
+2025-01-20 15:50:30,120 - INFO - Database initialized successfully
+2025-01-20 15:50:30,120 - INFO - Initializing Dashboard...
+2025-01-20 15:50:30,120 - INFO - Setting up GUI...
+2025-01-20 15:50:30,595 - INFO - Setting up styles...
+2025-01-20 15:50:30,595 - INFO - Dashboard initialization complete.
+2025-01-20 15:51:11,315 - ERROR - Error updating plots: 
+2025-01-20 15:51:12,707 - INFO - Database initialized successfully
+2025-01-20 15:51:12,707 - INFO - Initializing Dashboard...
+2025-01-20 15:51:12,708 - INFO - Setting up GUI...
+2025-01-20 15:51:13,151 - INFO - Setting up styles...
+2025-01-20 15:51:13,152 - INFO - Dashboard initialization complete.
+2025-01-20 15:53:49,476 - ERROR - Error updating plots: 
+2025-01-20 15:53:58,947 - INFO - Database initialized successfully
+2025-01-20 15:53:58,947 - INFO - Initializing Dashboard...
+2025-01-20 15:53:59,243 - INFO - Dashboard initialization complete.
+2025-01-20 15:53:59,763 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:00,425 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:01,614 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:02,812 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:03,990 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:05,187 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:05,280 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:06,360 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:07,540 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:08,723 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:09,931 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:10,801 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:11,105 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:12,273 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:13,483 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:14,713 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:15,902 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:16,413 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:17,098 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:18,298 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:19,494 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:20,680 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:21,867 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:21,937 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:23,050 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:24,250 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:25,423 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:26,612 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:27,458 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:27,782 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:28,962 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:30,164 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:31,345 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:32,547 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:33,058 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:33,747 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:34,950 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:36,149 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:37,362 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:38,559 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:38,572 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:39,755 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:40,975 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:42,203 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:43,421 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:44,095 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:44,634 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:45,836 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:47,027 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:48,221 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:49,404 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:49,620 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:50,579 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:51,776 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:52,961 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:54,147 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:55,134 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:54:55,407 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:56,580 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:57,765 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:54:58,940 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:00,116 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:00,653 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:01,304 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:02,477 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:03,656 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:04,894 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:06,116 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:06,171 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:07,309 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:08,495 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:09,684 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:10,895 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:11,697 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:12,092 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:13,294 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:14,501 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:15,707 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:16,913 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:17,210 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:18,117 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:19,348 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:20,537 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:21,724 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:22,920 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:22,926 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:24,130 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:25,336 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:26,555 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:27,757 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:28,451 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:28,949 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:30,149 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:31,350 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:32,572 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:33,762 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:33,962 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:34,972 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:36,173 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:37,425 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:38,642 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:39,476 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:39,872 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:41,084 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:42,276 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:43,480 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:44,671 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:45,010 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:45,855 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:47,072 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:48,245 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:49,437 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:50,681 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:50,689 - ERROR - Error in monitoring loop: 'process_count'
+2025-01-20 15:55:51,927 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:53,109 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:54,309 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:55,475 - ERROR - Error updating plots: 
+2025-01-20 15:55:55,475 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:55:59,795 - INFO - Database initialized successfully
+2025-01-20 15:55:59,795 - INFO - Initializing Dashboard...
+2025-01-20 15:56:00,098 - INFO - Dashboard initialization complete.
+2025-01-20 15:56:00,609 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:01,295 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:02,477 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:03,669 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:04,847 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:06,042 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:06,122 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:07,239 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:08,428 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:09,619 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:10,839 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:11,637 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:12,018 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:13,203 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:14,399 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:15,591 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:16,783 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:17,292 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:17,979 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:19,178 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:20,392 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:21,587 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:22,795 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:22,810 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:24,000 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:25,205 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:26,392 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:27,588 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:28,336 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:28,772 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:29,964 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:31,169 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:32,372 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:33,551 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:33,851 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:34,746 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:35,947 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:37,163 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:38,352 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:39,553 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:39,559 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:40,752 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:41,961 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:43,164 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:44,359 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:45,076 - ERROR - Error in monitoring loop: NOT NULL constraint failed: metrics.process_count
+2025-01-20 15:56:45,573 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:46,764 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:56:47,955 - ERROR - Error updating GUI: 'Dashboard' object has no attribute '_update_alerts'
+2025-01-20 15:57:17,411 - INFO - Database initialized successfully
+2025-01-20 15:57:17,411 - INFO - Initializing Dashboard...
+2025-01-20 15:57:17,700 - INFO - Dashboard initialization complete.
